@@ -3,6 +3,7 @@ title: "Prep Your Garden Before Guests or Putting Your House on the Market"
 description: "First impressions matter. Our complete checklist for getting Peninsula gardens presentation-ready for important events or property sales in just a few days."
 category: "Seasonal"
 pubDate: 2024-04-02
+image: "/images/garden-prep-guests-sale.jpg"
 featured: false
 draft: false
 ---

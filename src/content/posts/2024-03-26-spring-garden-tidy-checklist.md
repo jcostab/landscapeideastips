@@ -3,6 +3,7 @@ title: "Your Complete Spring Garden Tidy Checklist for the Peninsula"
 description: "Don't miss these essential spring garden tasks. Our Peninsula-specific checklist covers lawns, beds, hedges, and everything else to prep your garden for the growing season."
 category: "Seasonal"
 pubDate: 2024-03-26
+image: "/images/spring-garden-tidy.jpg"
 featured: false
 draft: false
 ---

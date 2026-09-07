@@ -3,6 +3,7 @@ title: "Autumn Lawn Care on the Peninsula: Prepare for Winter Now"
 description: "Essential autumn lawn maintenance for Mornington Peninsula properties. Learn what to do in March-May to ensure your lawn survives winter and bounces back strong in spring."
 category: "Seasonal"
 pubDate: 2024-03-25
+image: "/images/autumn-lawn-care.jpg"
 featured: false
 draft: false
 ---

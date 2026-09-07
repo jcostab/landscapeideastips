@@ -3,6 +3,7 @@ title: "Residential Garden Irrigation Basics: What Peninsula Homeowners Need to 
 description: "Essential irrigation knowledge for Mornington Peninsula gardens. Learn system types, watering needs, timing, common mistakes, and when to upgrade from manual watering."
 category: "Garden Beds"
 pubDate: 2024-03-30
+image: "/images/residential-irrigation.jpg"
 featured: false
 draft: false
 ---

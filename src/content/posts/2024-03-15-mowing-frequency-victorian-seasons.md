@@ -3,6 +3,7 @@ title: "How Often to Mow Your Lawn Through Victorian Seasons"
 description: "A complete guide to lawn mowing frequency across Victoria's seasons. Learn when to mow more, when to ease off, and how to adapt to Peninsula weather patterns."
 category: "Lawns"
 pubDate: 2024-03-15
+image: "/images/mowing-frequency-victorian-seasons.jpg"
 featured: true
 draft: false
 ---

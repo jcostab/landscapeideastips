@@ -3,6 +3,7 @@ title: "When DIY Stops: Knowing When to Book a Professional Gardener"
 description: "How to decide when garden tasks are worth outsourcing. An honest assessment of cost, time, results, and safety for Peninsula homeowners considering professional help."
 category: "DIY vs Hire"
 pubDate: 2024-03-28
+image: "/images/when-diy-hire-gardener.jpg"
 featured: true
 draft: false
 ---

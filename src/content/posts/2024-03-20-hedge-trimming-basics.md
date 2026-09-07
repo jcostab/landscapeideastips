@@ -4,6 +4,7 @@ description: "Learn the fundamentals of hedge trimming, the right tools for the 
 category: "Hedges & Pruning"
 pubDate: 2024-03-20
 featured: false
+image: "/images/hedge-trimming-basics.jpg"
 draft: false
 ---
 
