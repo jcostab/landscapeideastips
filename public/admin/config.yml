@@ -1,0 +1,58 @@
+backend:
+  name: github
+  repo: jcostab/landscapeideastips
+  branch: main
+  # OAuth base_url will be configured later with Cloudflare Worker auth
+
+media_folder: public/images
+public_folder: /images
+
+collections:
+  - name: posts
+    label: Blog Posts
+    label_singular: Post
+    folder: src/content/posts
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    extension: md
+    format: frontmatter
+    editor:
+      preview: true
+    fields:
+      - { label: "Title", name: "title", widget: "string", required: true }
+      - { label: "Description", name: "description", widget: "text", required: true }
+      - { 
+          label: "Category", 
+          name: "category", 
+          widget: "select", 
+          options: ["Lawns", "Garden Beds", "Hedges & Pruning", "Seasonal", "DIY vs Hire"],
+          required: true 
+        }
+      - { label: "Publish Date", name: "pubDate", widget: "datetime", required: true }
+      - { label: "Featured Image", name: "image", widget: "image", required: false }
+      - { label: "Featured", name: "featured", widget: "boolean", default: false }
+      - { label: "Draft", name: "draft", widget: "boolean", default: false }
+      - { label: "Body", name: "body", widget: "markdown", required: true }
+    sortable_fields: ["pubDate", "title", "category"]
+    view_filters:
+      - label: "Lawns"
+        field: category
+        pattern: "Lawns"
+      - label: "Garden Beds"
+        field: category
+        pattern: "Garden Beds"
+      - label: "Hedges & Pruning"
+        field: category
+        pattern: "Hedges & Pruning"
+      - label: "Seasonal"
+        field: category
+        pattern: "Seasonal"
+      - label: "DIY vs Hire"
+        field: category
+        pattern: "DIY vs Hire"
+      - label: "Featured"
+        field: featured
+        pattern: true
+      - label: "Drafts"
+        field: draft
+        pattern: true

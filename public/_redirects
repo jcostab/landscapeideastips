@@ -1,0 +1,5 @@
+# Cloudflare Pages redirects
+# www to apex handled in Cloudflare DNS/rules
+
+# Example redirects:
+# /old-path /new-path 301

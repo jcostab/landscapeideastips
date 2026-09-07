@@ -1,0 +1,147 @@
+---
+import Layout from '../layouts/Layout.astro';
+import PostCard from '../components/PostCard.astro';
+import CategoryChip from '../components/CategoryChip.astro';
+import { getCollection } from 'astro:content';
+
+const allPosts = await getCollection('posts', ({ data }) => {
+  return data.draft !== true;
+});
+
+const sortedPosts = allPosts.sort((a, b) => 
+  b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+);
+
+const featuredPosts = sortedPosts.filter(post => post.data.featured).slice(0, 3);
+const latestPosts = sortedPosts.slice(0, 6);
+
+const categories = ['Lawns', 'Garden Beds', 'Hedges & Pruning', 'Seasonal', 'DIY vs Hire'];
+const categoryCounts = categories.map(cat => ({
+  name: cat,
+  count: allPosts.filter(post => post.data.category === cat).length
+}));
+---
+
+<Layout 
+  title="Landscape Ideas Tips - Australian Garden & Landscape Tips"
+  description="Your trusted source for practical Australian landscape and garden tips. Learn about lawn care, garden beds, hedges, seasonal maintenance, and when to hire professionals."
+>
+  <!-- Hero Section -->
+  <section class="bg-gradient-to-br from-primary-600 to-primary-800 text-white py-20">
+    <div class="container mx-auto px-4">
+      <div class="max-w-3xl mx-auto text-center">
+        <h1 class="text-4xl md:text-5xl lg:text-6xl font-bold mb-6">
+          Master Your Aussie Garden
+        </h1>
+        <p class="text-xl md:text-2xl mb-8 text-primary-100">
+          Practical tips for lawns, beds, hedges & seasonal care on the Peninsula
+        </p>
+        <div class="flex flex-col sm:flex-row gap-4 justify-center">
+          <a 
+            href="/blog" 
+            class="inline-block px-8 py-3 bg-white text-primary-700 font-bold rounded-lg hover:bg-primary-50 transition-colors"
+          >
+            Browse All Tips
+          </a>
+          <a 
+            href="#categories" 
+            class="inline-block px-8 py-3 bg-primary-700 text-white font-bold rounded-lg hover:bg-primary-600 transition-colors border-2 border-white"
+          >
+            Explore by Topic
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Featured Posts -->
+  {featuredPosts.length > 0 && (
+    <section class="py-16 bg-white">
+      <div class="container mx-auto px-4">
+        <h2 class="text-3xl font-bold mb-8 text-center">Featured Tips</h2>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+          {featuredPosts.map(post => (
+            <PostCard
+              title={post.data.title}
+              description={post.data.description}
+              category={post.data.category}
+              slug={post.slug}
+              pubDate={post.data.pubDate}
+              image={post.data.image}
+            />
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
+
+  <!-- Categories -->
+  <section id="categories" class="py-16 bg-gray-50">
+    <div class="container mx-auto px-4">
+      <h2 class="text-3xl font-bold mb-8 text-center">Browse by Category</h2>
+      <div class="flex flex-wrap gap-4 justify-center max-w-3xl mx-auto">
+        {categoryCounts.map(({ name, count }) => (
+          <CategoryChip category={name} count={count} />
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Latest Posts -->
+  <section class="py-16 bg-white">
+    <div class="container mx-auto px-4">
+      <h2 class="text-3xl font-bold mb-8 text-center">Latest Tips</h2>
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+        {latestPosts.map(post => (
+          <PostCard
+            title={post.data.title}
+            description={post.data.description}
+            category={post.data.category}
+            slug={post.slug}
+            pubDate={post.data.pubDate}
+            image={post.data.image}
+          />
+        ))}
+      </div>
+      <div class="text-center mt-12">
+        <a 
+          href="/blog" 
+          class="inline-block px-8 py-3 bg-primary-600 text-white font-bold rounded-lg hover:bg-primary-700 transition-colors"
+        >
+          View All Posts
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Partner Note -->
+  <section class="py-16 bg-primary-50">
+    <div class="container mx-auto px-4">
+      <div class="max-w-3xl mx-auto text-center">
+        <h2 class="text-2xl font-bold mb-4">Need Professional Help?</h2>
+        <p class="text-gray-700 mb-6">
+          While we love sharing DIY tips, sometimes it's best to call in the experts. 
+          We work with trusted Peninsula partners for all your lawn and garden needs.
+        </p>
+        <div class="flex flex-col sm:flex-row gap-4 justify-center">
+          <a 
+            href="https://mowingmagic.com.au" 
+            target="_blank"
+            rel="noopener"
+            class="inline-block px-6 py-3 bg-primary-600 text-white font-semibold rounded-lg hover:bg-primary-700 transition-colors"
+          >
+            Mowing Magic - Lawn Care
+          </a>
+          <a 
+            href="https://peninsulahardyards.com.au" 
+            target="_blank"
+            rel="noopener"
+            class="inline-block px-6 py-3 bg-primary-600 text-white font-semibold rounded-lg hover:bg-primary-700 transition-colors"
+          >
+            Peninsula Hard Yards - Landscaping
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+</Layout>

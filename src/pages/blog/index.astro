@@ -1,0 +1,46 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import PostCard from '../../components/PostCard.astro';
+import { getCollection } from 'astro:content';
+
+const allPosts = await getCollection('posts', ({ data }) => {
+  return data.draft !== true;
+});
+
+const sortedPosts = allPosts.sort((a, b) => 
+  b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+);
+---
+
+<Layout 
+  title="Blog - Landscape Ideas Tips"
+  description="Browse all our Australian landscape and garden tips. From lawn care to seasonal maintenance, find practical advice for your outdoor space."
+>
+  <div class="container mx-auto px-4 py-12">
+    <div class="max-w-4xl mx-auto mb-12 text-center">
+      <h1 class="text-4xl md:text-5xl font-bold mb-4">Garden & Landscape Tips</h1>
+      <p class="text-xl text-gray-600">
+        Practical advice for Australian gardens - {sortedPosts.length} articles and growing
+      </p>
+    </div>
+
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+      {sortedPosts.map(post => (
+        <PostCard
+          title={post.data.title}
+          description={post.data.description}
+          category={post.data.category}
+          slug={post.slug}
+          pubDate={post.data.pubDate}
+          image={post.data.image}
+        />
+      ))}
+    </div>
+
+    {sortedPosts.length === 0 && (
+      <div class="text-center py-12">
+        <p class="text-gray-600 text-lg">No posts published yet. Check back soon!</p>
+      </div>
+    )}
+  </div>
+</Layout>
