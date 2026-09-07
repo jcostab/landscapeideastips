@@ -3,6 +3,7 @@ title: "Edging & Line Trimming: The Secret to a Professional-Looking Lawn"
 description: "Master the finishing touches that separate average lawns from magazine-worthy ones. Learn edging techniques, line trimmer tips, and when precision matters most."
 category: "Lawns"
 pubDate: 2024-03-22
+image: "/images/edging-line-trimming.jpg"
 featured: true
 draft: false
 ---

@@ -3,6 +3,7 @@ title: "Garden Bed Weed Control That Won't Wreck Your Plants"
 description: "Effective weed control strategies for Australian garden beds without damaging the plants you want to keep. Learn prevention, removal techniques, and when chemical control makes sense."
 category: "Garden Beds"
 pubDate: 2024-03-24
+image: "/images/weed-control-garden-beds.jpg"
 featured: false
 draft: false
 ---

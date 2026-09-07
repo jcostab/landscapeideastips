@@ -20,9 +20,7 @@ const formattedDate = pubDate.toLocaleDateString('en-AU', {
 <article class="bg-white rounded-lg shadow-md overflow-hidden hover:shadow-xl transition-shadow duration-300">
   {image && (
     <a href={`/blog/${slug}`} class="block">
-      <div class="aspect-video bg-gray-200 flex items-center justify-center text-gray-400">
-        <span class="text-sm">Image placeholder</span>
-      </div>
+      <img src={image} alt={title} class="w-full aspect-video object-cover" />
     </a>
   )}
   <div class="p-6">

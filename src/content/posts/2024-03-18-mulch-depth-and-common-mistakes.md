@@ -3,6 +3,7 @@ title: "Mulch Depth and Common Mistakes: Get It Right the First Time"
 description: "Too much mulch suffocates plants. Too little wastes money. Learn the correct mulch depth for Australian gardens, common mistakes to avoid, and how to mulch like a pro."
 category: "Garden Beds"
 pubDate: 2024-03-18
+image: "/images/mulch-depth-mistakes.jpg"
 featured: true
 draft: false
 ---
