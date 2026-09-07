@@ -1,0 +1,51 @@
+---
+const currentYear = new Date().getFullYear();
+---
+
+<footer class="bg-gray-900 text-gray-300 mt-16">
+  <div class="container mx-auto px-4 py-12">
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+      <div>
+        <h3 class="text-white text-lg font-bold mb-4">Landscape Ideas Tips</h3>
+        <p class="text-sm text-gray-400">
+          Your trusted source for practical Australian landscape and garden tips. From lawn care to garden beds, we help you maintain a beautiful outdoor space.
+        </p>
+      </div>
+      
+      <div>
+        <h4 class="text-white text-lg font-semibold mb-4">Quick Links</h4>
+        <ul class="space-y-2 text-sm">
+          <li><a href="/blog" class="hover:text-primary-400 transition-colors">Blog</a></li>
+          <li><a href="/about" class="hover:text-primary-400 transition-colors">About</a></li>
+          <li><a href="/contact" class="hover:text-primary-400 transition-colors">Contact</a></li>
+        </ul>
+      </div>
+      
+      <div>
+        <h4 class="text-white text-lg font-semibold mb-4">Related Services</h4>
+        <p class="text-sm text-gray-400 mb-3">
+          Looking for professional help? Check out our Peninsula partners:
+        </p>
+        <ul class="space-y-2 text-sm">
+          <li>
+            <a href="https://mowingmagic.com.au" target="_blank" rel="noopener" class="hover:text-primary-400 transition-colors">
+              Mowing Magic - Lawn Care
+            </a>
+          </li>
+          <li>
+            <a href="https://peninsulahardyards.com.au" target="_blank" rel="noopener" class="hover:text-primary-400 transition-colors">
+              Peninsula Hard Yards - Gardens & Landscaping
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+    
+    <div class="border-t border-gray-800 mt-8 pt-8 text-center text-sm text-gray-500">
+      <p>&copy; {currentYear} Landscape Ideas Tips. All rights reserved.</p>
+      <p class="mt-2">
+        This is an informational tips blog. We share links to related local services for reader convenience.
+      </p>
+    </div>
+  </div>
+</footer>
