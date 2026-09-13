@@ -23,6 +23,8 @@
 3. **Hedges & Pruning** - Trimming techniques, timing, equipment, when to hire
 4. **Seasonal** - Spring/autumn checklists, seasonal prep and maintenance
 5. **DIY vs Hire** - Honest guidance on when to tackle tasks yourself vs hiring professionals
+6. **Hardscape** - Retaining walls, paving, pathways, structural landscape elements
+7. **Outdoor Living** - Patios, decks, outdoor spaces, entertaining areas, lighting
 
 ### Content Approach
 
@@ -105,7 +107,7 @@ Example CTA context: "Expert hedge trimming, pruning, and garden maintenance ser
 - **Build:** Astro static site generation
 - **DNS:** Managed in Cloudflare (www redirect, etc.)
 
-## Future Content Pipeline
+## Content Pipeline
 
 ### Seed Content Completed (10 posts):
 1. How often to mow through Victorian seasons
@@ -119,17 +121,20 @@ Example CTA context: "Expert hedge trimming, pruning, and garden maintenance ser
 9. Residential irrigation basics
 10. Garden prep before guests/sale
 
-### Future Topic Ideas:
-- Lawn fertilizing schedules
-- Pest control for common garden insects
-- Composting basics
-- Water-wise plant selections
-- Native vs exotic plant considerations
-- Tool maintenance and care
-- Seasonal planting guides
-- Dealing with Peninsula clay vs sandy soils
-- Frost protection strategies
-- Pet-friendly garden considerations
+### AU Keyword Publishing Queue
+
+The site now has a **living publishing queue** based on AU keyword research (Ahrefs, September 2026). See:
+
+- **`docs/keyword-shortlist-au.md`** - Full keyword research with volumes, difficulty, intent analysis
+- **`docs/keyword-queue.md`** - Locked publishing queue (40 items in 10 batches of 4)
+
+The queue expands content into **hardscape** (retaining walls, paving, pathways) and **outdoor living** (patios, decks, entertaining areas), maintaining the same quality standards and partner CTA approach.
+
+**Publishing approach:**
+- Work through batches sequentially (4 items per batch)
+- Quality over filler — no invented topics outside the queue
+- AU English, Melbourne/Peninsula climate angles where natural
+- ONE soft CTA per post (Mowing Magic or Peninsula Hard Yards based on topic)
 
 ## Metrics & Success
 
