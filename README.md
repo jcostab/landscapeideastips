@@ -1,7 +1,3 @@
-<<<<<<< Updated upstream
-# landscapeideastips
-Landscape Ideas Tips — AU garden &amp; landscape tips blog
-=======
 # Landscape Ideas Tips
 
 > Practical Australian landscape & garden tips for the Mornington Peninsula and beyond
@@ -71,7 +67,7 @@ Posts live in `src/content/posts/` as Markdown files:
 ---
 title: "Your Post Title"
 description: "Brief description for SEO"
-category: "Lawns" # or "Garden Beds" | "Hedges & Pruning" | "Seasonal" | "DIY vs Hire"
+category: "Lawns" # or "Garden Beds" | "Hedges & Pruning" | "Seasonal" | "DIY vs Hire" | "Hardscape" | "Outdoor Living"
 pubDate: 2024-03-15
 featured: false
 draft: false
@@ -90,6 +86,8 @@ Filename format: `YYYY-MM-DD-slug.md`
 3. **Hedges & Pruning** - Trimming, techniques, timing
 4. **Seasonal** - Spring/autumn maintenance, checklists
 5. **DIY vs Hire** - When to DIY vs call professionals
+6. **Hardscape** - Retaining walls, paving, pathways, structural elements
+7. **Outdoor Living** - Patios, decks, outdoor spaces, entertaining areas
 
 ## Project Structure
 
@@ -124,7 +122,9 @@ Filename format: `YYYY-MM-DD-slug.md`
 │   │   ├── contact.astro
 │   │   └── rss.xml.js      # RSS feed
 ├── docs/
-│   └── BUILD-BRIEF.md      # Project brief & guidelines
+│   ├── BUILD-BRIEF.md      # Project brief & guidelines
+│   ├── keyword-shortlist-au.md  # AU keyword research
+│   └── keyword-queue.md    # Publishing queue
 ├── astro.config.mjs
 ├── tailwind.config.mjs
 ├── tsconfig.json
@@ -223,4 +223,3 @@ See `docs/BUILD-BRIEF.md` for complete project guidelines, content strategy, and
 **Repository:** https://github.com/jcostab/landscapeideastips  
 **Built with:** Astro 5 + Tailwind CSS + Sveltia CMS  
 **Hosted on:** Cloudflare Pages
->>>>>>> Stashed changes
