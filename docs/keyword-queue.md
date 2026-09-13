@@ -1,6 +1,6 @@
 # AU Keyword Publishing Queue
 
-**Progress: 0/40**
+**Progress: 4/40**
 
 ---
 
@@ -25,16 +25,16 @@ This queue is organized into **10 locked batches of exactly 4 items each**. Work
 
 ## Batch 1
 
-- [ ] **Retaining Wall Ideas for Australian Yards** | retaining wall ideas | ~2500 vol | Hardscape | CTA: PHY | `retaining-wall-ideas-australia`  
+- [x] **Retaining Wall Ideas for Australian Yards** | retaining wall ideas | ~2500 vol | Hardscape | CTA: PHY | `retaining-wall-ideas-australia`  
   _Showcase materials (sleepers, stone, gabion), design approaches for sloped blocks, Peninsula clay considerations_
 
-- [ ] **Patio Ideas Australia: Layouts That Work** | patio ideas australia | ~200 vol | Outdoor Living | CTA: PHY | `patio-ideas-australia`  
+- [x] **Patio Ideas Australia: Layouts That Work** | patio ideas australia | ~200 vol | Outdoor Living | CTA: PHY | `patio-ideas-australia`  
   _Covered vs open, size planning, material choices for AU climate, entertaining flow_
 
-- [ ] **Outdoor Lighting Ideas for Melbourne Gardens** | outdoor lighting ideas | ~450 vol | Outdoor Living | CTA: PHY | `outdoor-lighting-ideas-melbourne`  
+- [x] **Outdoor Lighting Ideas for Melbourne Gardens** | outdoor lighting ideas | ~450 vol | Outdoor Living | CTA: PHY | `outdoor-lighting-ideas-melbourne`  
   _Safety + ambience, path/feature/entertaining lighting, Melbourne winter/summer angles_
 
-- [ ] **Paving Ideas for Paths, Patios and Driveways** | paving ideas | ~450 vol | Hardscape | CTA: PHY | `paving-ideas-australia`  
+- [x] **Paving Ideas for Paths, Patios and Driveways** | paving ideas | ~450 vol | Hardscape | CTA: PHY | `paving-ideas-australia`  
   _Compare crazy paving, pavers, exposed aggregate, permeable options — when to use each_
 
 ---
