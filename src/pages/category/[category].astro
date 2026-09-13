@@ -10,7 +10,9 @@ export const getStaticPaths = (async () => {
     'garden-beds': 'Garden Beds',
     'hedges-and-pruning': 'Hedges & Pruning',
     'seasonal': 'Seasonal',
-    'diy-vs-hire': 'DIY vs Hire'
+    'diy-vs-hire': 'DIY vs Hire',
+    'hardscape': 'Hardscape',
+    'outdoor-living': 'Outdoor Living'
   };
 
   const posts = await getCollection('posts', ({ data }) => {
