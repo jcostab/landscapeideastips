@@ -1,6 +1,6 @@
 # AU Keyword Publishing Queue
 
-**Progress: 4/40**
+**Progress: 8/40**
 
 ---
 
@@ -41,16 +41,16 @@ This queue is organized into **10 locked batches of exactly 4 items each**. Work
 
 ## Batch 2
 
-- [ ] **Concrete Sleeper Retaining Walls Explained** | concrete sleeper retaining wall | ~2700 vol | Hardscape | CTA: PHY | `concrete-sleeper-retaining-walls`  
+- [x] **Concrete Sleeper Retaining Walls Explained** | concrete sleeper retaining wall | ~2700 vol | Hardscape | CTA: PHY | `concrete-sleeper-retaining-walls`  
   _Why concrete sleepers dominate AU market, pros/cons, height limits, drainage basics_
 
-- [ ] **Small Patio Ideas for Compact Australian Backyards** | small patio ideas | ~250 vol | Outdoor Living | CTA: PHY | `small-patio-ideas-australia`  
+- [x] **Small Patio Ideas for Compact Australian Backyards** | small patio ideas | ~250 vol | Outdoor Living | CTA: PHY | `small-patio-ideas-australia`  
   _Maximize tight spaces, vertical interest, multi-use zones, Peninsula cottage blocks_
 
-- [ ] **Front Yard Landscaping Ideas Australia** | front yard landscaping ideas australia | ~500 vol | Garden Beds | CTA: PHY | `front-yard-landscaping-ideas-australia`  
+- [x] **Front Yard Landscaping Ideas Australia** | front yard landscaping ideas australia | ~500 vol | Garden Beds | CTA: PHY | `front-yard-landscaping-ideas-australia`  
   _Curb appeal, low-maintenance natives, street tree rules, hardscape balance_
 
-- [ ] **Garden Drainage Fixes for Wet Victorian Yards** | garden drainage | ~250 vol | DIY vs Hire | CTA: PHY | `garden-drainage-victoria`  
+- [x] **Garden Drainage Fixes for Wet Victorian Yards** | garden drainage | ~250 vol | DIY vs Hire | CTA: PHY | `garden-drainage-victoria`  
   _Diagnose drainage problems, DIY swales/gravel, when to call drainage pros, clay soil Peninsula angle_
 
 ---
