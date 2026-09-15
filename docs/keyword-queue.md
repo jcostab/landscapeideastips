@@ -1,6 +1,6 @@
 # AU Keyword Publishing Queue
 
-**Progress: 8/40**
+**Progress: 12/40**
 
 ---
 
@@ -57,16 +57,16 @@ This queue is organized into **10 locked batches of exactly 4 items each**. Work
 
 ## Batch 3
 
-- [ ] **Deck Ideas for Australian Homes** | deck ideas | ~300 vol | Outdoor Living | CTA: PHY | `deck-ideas-australia`  
+- [x] **Deck Ideas for Australian Homes** | deck ideas | ~300 vol | Outdoor Living | CTA: PHY | `deck-ideas-australia`  
   _Elevated vs ground-level, wraparound, small decks, coastal/bushfire considerations_
 
-- [ ] **Outdoor Privacy Screen Ideas for Gardens** | outdoor privacy screen | ~900 vol | Hedges & Pruning | CTA: PHY | `outdoor-privacy-screen-ideas`  
+- [x] **Outdoor Privacy Screen Ideas for Gardens** | outdoor privacy screen | ~900 vol | Hedges & Pruning | CTA: PHY | `outdoor-privacy-screen-ideas`  
   _Plants vs screens vs fences, instant hedges, batten screens, balcony privacy_
 
-- [ ] **Crazy Paving Ideas (Stone Paths & Patios)** | crazy paving | ~3500 vol | Hardscape | CTA: PHY | `crazy-paving-ideas`  
+- [x] **Crazy Paving Ideas (Stone Paths & Patios)** | crazy paving | ~3500 vol | Hardscape | CTA: PHY | `crazy-paving-ideas`  
   _Classic AU look, natural stone vs reconstituted, laying tips, when it works best_
 
-- [ ] **Lawn Edging Ideas That Stay Neat** | lawn edging ideas | ~150 vol | Lawns | CTA: MM | `lawn-edging-ideas`  
+- [x] **Lawn Edging Ideas That Stay Neat** | lawn edging ideas | ~150 vol | Lawns | CTA: MM | `lawn-edging-ideas`  
   _Steel/aluminium/plastic edging, garden bed borders, mowing strips, maintenance tips (bridge to existing Mowing Magic content)_
 
 ---
