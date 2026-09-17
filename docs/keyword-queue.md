@@ -1,6 +1,6 @@
 # AU Keyword Publishing Queue
 
-**Progress: 12/40**
+**Progress: 16/40**
 
 ---
 
@@ -73,16 +73,16 @@ This queue is organized into **10 locked batches of exactly 4 items each**. Work
 
 ## Batch 4
 
-- [ ] **Enclosed Patio Ideas Australia** | enclosed patio ideas australia | ~250 vol | Outdoor Living | CTA: PHY | `enclosed-patio-ideas-australia`  
+- [x] **Enclosed Patio Ideas Australia** | enclosed patio ideas australia | ~250 vol | Outdoor Living | CTA: PHY | `enclosed-patio-ideas-australia`  
   _Café blinds, sliding glass, pergola roofs, insect screens, Melbourne weather considerations_
 
-- [ ] **Timber Sleeper Retaining Walls: Pros, Cons, Climate** | timber sleeper retaining wall | ~500 vol | Hardscape | CTA: PHY | `timber-sleeper-retaining-walls`  
+- [x] **Timber Sleeper Retaining Walls: Pros, Cons, Climate** | timber sleeper retaining wall | ~500 vol | Hardscape | CTA: PHY | `timber-sleeper-retaining-walls`  
   _Treated pine risks AU climate, termites/rot, when timber makes sense, compare to concrete_
 
-- [ ] **Modern Australian Front Yard Ideas** | modern australian front yard ideas | ~600 vol | Garden Beds | CTA: PHY | `modern-australian-front-yard-ideas`  
+- [x] **Modern Australian Front Yard Ideas** | modern australian front yard ideas | ~600 vol | Garden Beds | CTA: PHY | `modern-australian-front-yard-ideas`  
   _Clean lines, native grasses, minimal lawn, statement plants, modern hardscape_
 
-- [ ] **Gravel Garden Ideas for Low-Maintenance Yards** | gravel garden ideas | ~90 vol | Garden Beds | CTA: PHY | `gravel-garden-ideas-australia`  
+- [x] **Gravel Garden Ideas for Low-Maintenance Yards** | gravel garden ideas | ~90 vol | Garden Beds | CTA: PHY | `gravel-garden-ideas-australia`  
   _Drought-tolerant, weed suppression, gravel types, feature plants, not just "crushed rock deserts"_
 
 ---
