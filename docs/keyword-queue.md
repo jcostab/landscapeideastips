@@ -1,6 +1,6 @@
 # AU Keyword Publishing Queue
 
-**Progress: 16/40**
+**Progress: 20/40**
 
 ---
 
@@ -89,16 +89,16 @@ This queue is organized into **10 locked batches of exactly 4 items each**. Work
 
 ## Batch 5
 
-- [ ] **Bluestone Paving in Melbourne: When It Makes Sense** | bluestone paving melbourne | ~200 vol | Hardscape | CTA: PHY | `bluestone-paving-melbourne`  
+- [x] **Bluestone Paving in Melbourne: When It Makes Sense** | bluestone paving melbourne | ~200 vol | Hardscape | CTA: PHY | `bluestone-paving-melbourne`  
   _Local heritage look, cost vs alternatives, thermal mass, where it works (entries/paths vs full patios)_
 
-- [ ] **Outdoor Living Ideas for Peninsula Climate** | outdoor living ideas | ~150 vol | Outdoor Living | CTA: PHY | `outdoor-living-ideas-peninsula`  
+- [x] **Outdoor Living Ideas for Peninsula Climate** | outdoor living ideas | ~150 vol | Outdoor Living | CTA: PHY | `outdoor-living-ideas-peninsula`  
   _Wind protection, sun/shade balance, winter use strategies, connecting indoor/outdoor_
 
-- [ ] **How to Build a Small Retaining Wall (DIY Limits)** | how to build a retaining wall | ~500 vol | DIY vs Hire | CTA: PHY | `how-to-build-retaining-wall-diy`  
+- [x] **How to Build a Small Retaining Wall (DIY Limits)** | how to build a retaining wall | ~500 vol | DIY vs Hire | CTA: PHY | `how-to-build-retaining-wall-diy`  
   _Honest guide: when DIY is safe (<600mm), when engineer/builder required, drainage must-haves_
 
-- [ ] **Garden Privacy Screen Ideas (Plants vs Screens)** | garden privacy screen ideas | ~70 vol | Hedges & Pruning | CTA: PHY | `garden-privacy-screen-ideas`  
+- [x] **Garden Privacy Screen Ideas (Plants vs Screens)** | garden privacy screen ideas | ~70 vol | Hedges & Pruning | CTA: PHY | `garden-privacy-screen-ideas`  
   _Fast-growing hedge plants, timber batten DIY, metal screens, mix approaches_
 
 ---
