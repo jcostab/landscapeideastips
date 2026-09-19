@@ -1,6 +1,6 @@
 # AU Keyword Publishing Queue
 
-**Progress: 20/40**
+**Progress: 24/40**
 
 ---
 
@@ -105,16 +105,16 @@ This queue is organized into **10 locked batches of exactly 4 items each**. Work
 
 ## Batch 6
 
-- [ ] **Permeable Paving for Stormwater-Smart Yards** | permeable paving | ~1300 vol | Hardscape | CTA: PHY | `permeable-paving-australia`  
+- [x] **Permeable Paving for Stormwater-Smart Yards** | permeable paving | ~1300 vol | Hardscape | CTA: PHY | `permeable-paving-australia`  
   _Why councils push it, permeable pavers vs gravel, driveways/paths, Melbourne stormwater rules_
 
-- [ ] **Backyard Patio Ideas Australia** | backyard patio ideas australia | ~100 vol | Outdoor Living | CTA: PHY | `backyard-patio-ideas-australia`  
+- [x] **Backyard Patio Ideas Australia** | backyard patio ideas australia | ~100 vol | Outdoor Living | CTA: PHY | `backyard-patio-ideas-australia`  
   _North-facing layouts, shade solutions, family entertaining zones, fire pit integration_
 
-- [ ] **Sandstone Retaining Walls** | sandstone retaining wall | ~700 vol | Hardscape | CTA: PHY | `sandstone-retaining-walls`  
+- [x] **Sandstone Retaining Walls** | sandstone retaining wall | ~700 vol | Hardscape | CTA: PHY | `sandstone-retaining-walls`  
   _Natural stone aesthetic, cost, dry-stack vs mortared, Peninsula quarries/suppliers angle_
 
-- [ ] **Low-Maintenance Front Yard with Australian Natives** | low maintenance front yard australian native garden design | ~700 vol | Garden Beds | CTA: PHY | `low-maintenance-front-yard-australian-natives`  
+- [x] **Low-Maintenance Front Yard with Australian Natives** | low maintenance front yard australian native garden design | ~700 vol | Garden Beds | CTA: PHY | `low-maintenance-front-yard-australian-natives`  
   _Peninsula-appropriate natives, once-established watering, structural planting, no lawn front yards_
 
 ---
