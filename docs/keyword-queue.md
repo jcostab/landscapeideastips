@@ -1,6 +1,6 @@
 # AU Keyword Publishing Queue
 
-**Progress: 24/40**
+**Progress: 28/40**
 
 ---
 
@@ -121,16 +121,16 @@ This queue is organized into **10 locked batches of exactly 4 items each**. Work
 
 ## Batch 7
 
-- [ ] **Timber vs Composite Decking for Melbourne** | timber decking / composite decking melbourne | ~1000/600 vol | Outdoor Living | CTA: PHY | `timber-vs-composite-decking-melbourne`  
+- [x] **Timber vs Composite Decking for Melbourne** | timber decking / composite decking melbourne | ~1000/600 vol | Outdoor Living | CTA: PHY | `timber-vs-composite-decking-melbourne`  
   _Honest comparison: cost, maintenance, lifespan, Melbourne sun/wet, splinters vs fade, when each wins_
 
-- [ ] **Retaining Wall Drainage: Stop Blowouts** | retaining wall drainage | ~500 vol | Hardscape | CTA: PHY | `retaining-wall-drainage`  
+- [x] **Retaining Wall Drainage: Stop Blowouts** | retaining wall drainage | ~500 vol | Hardscape | CTA: PHY | `retaining-wall-drainage`  
   _Why walls fail (water pressure), ag pipe, weep holes, gravel backfill, costly mistakes to avoid_
 
-- [ ] **Courtyard Ideas Australia** | courtyard ideas australia | ~70 vol | Outdoor Living | CTA: PHY | `courtyard-ideas-australia`  
+- [x] **Courtyard Ideas Australia** | courtyard ideas australia | ~70 vol | Outdoor Living | CTA: PHY | `courtyard-ideas-australia`  
   _Small urban courtyards, paving + plants balance, vertical gardens, microclimates_
 
-- [ ] **French Drain Basics for Garden Wet Spots** | french drainage system | ~350 vol | DIY vs Hire | CTA: PHY | `french-drain-garden-australia`  
+- [x] **French Drain Basics for Garden Wet Spots** | french drainage system | ~350 vol | DIY vs Hire | CTA: PHY | `french-drain-garden-australia`  
   _What a French drain is, DIY steps for garden swales, when to hire plumber vs landscaper, Peninsula clay challenges_
 
 ---
