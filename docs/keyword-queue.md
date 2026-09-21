@@ -1,6 +1,6 @@
 # AU Keyword Publishing Queue
 
-**Progress: 28/40**
+**Progress: 32/40**
 
 ---
 
@@ -137,16 +137,16 @@ This queue is organized into **10 locked batches of exactly 4 items each**. Work
 
 ## Batch 8
 
-- [ ] **Gabion Retaining Walls for Sloped Blocks** | gabion retaining wall | ~500 vol | Hardscape | CTA: PHY | `gabion-retaining-walls`  
+- [x] **Gabion Retaining Walls for Sloped Blocks** | gabion retaining wall | ~500 vol | Hardscape | CTA: PHY | `gabion-retaining-walls`  
   _Modern industrial look, rock-filled cages, pros (drainage/cost), cons (professional install), Peninsula coastal blocks_
 
-- [ ] **Cheap Simple Front Yard Landscaping Ideas** | cheap simple front yard landscaping ideas | ~900 vol | Garden Beds | CTA: PHY | `cheap-front-yard-landscaping-ideas`  
+- [x] **Cheap Simple Front Yard Landscaping Ideas** | cheap simple front yard landscaping ideas | ~900 vol | Garden Beds | CTA: PHY | `cheap-front-yard-landscaping-ideas`  
   _Budget curb appeal: mulch makeovers, pathway refresh, low-cost plants, DIY edging, one focal point_
 
-- [ ] **Pool Paving Ideas for Aussie Backyards** | pool paving | ~400 vol | Hardscape | CTA: PHY | `pool-paving-ideas`  
+- [x] **Pool Paving Ideas for Aussie Backyards** | pool paving | ~400 vol | Hardscape | CTA: PHY | `pool-paving-ideas`  
   _Non-slip surfaces, heat reflection, pavers vs concrete vs travertine, pool surrounds safety & style_
 
-- [ ] **Fence Privacy Screens That Still Look Good** | fence privacy screen | ~500 vol | Hedges & Pruning | CTA: PHY | `fence-privacy-screens`  
+- [x] **Fence Privacy Screens That Still Look Good** | fence privacy screen | ~500 vol | Hedges & Pruning | CTA: PHY | `fence-privacy-screens`  
   _Timber battens, metal sheets, climbing plants, panel styles, neighbour considerations_
 
 ---
