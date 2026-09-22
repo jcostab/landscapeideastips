@@ -1,6 +1,6 @@
 # AU Keyword Publishing Queue
 
-**Progress: 32/40**
+**Progress: 36/40**
 
 ---
 
@@ -153,16 +153,16 @@ This queue is organized into **10 locked batches of exactly 4 items each**. Work
 
 ## Batch 9
 
-- [ ] **Outdoor Patio Ideas on a Budget** | outdoor patio ideas | ~500 vol | Outdoor Living | CTA: PHY | `outdoor-patio-ideas-budget`  
+- [x] **Outdoor Patio Ideas on a Budget** | outdoor patio ideas | ~500 vol | Outdoor Living | CTA: PHY | `outdoor-patio-ideas-budget`  
   _DIY paving, simple pergola, repurposed materials, staged builds, smart spending priorities_
 
-- [ ] **Garden Retaining Wall Options Compared** | garden retaining wall | ~450 vol | Hardscape | CTA: PHY | `garden-retaining-wall-options`  
+- [x] **Garden Retaining Wall Options Compared** | garden retaining wall | ~450 vol | Hardscape | CTA: PHY | `garden-retaining-wall-options`  
   _Sleepers vs stone vs block vs gabion — comparison table, cost/lifespan/look/DIY-ability_
 
-- [ ] **Subsoil Drainage for Clay Peninsula Soils** | subsoil drainage | ~350 vol | DIY vs Hire | CTA: PHY | `subsoil-drainage-peninsula`  
+- [x] **Subsoil Drainage for Clay Peninsula Soils** | subsoil drainage | ~350 vol | DIY vs Hire | CTA: PHY | `subsoil-drainage-peninsula`  
   _What subsoil drainage is, ag pipe systems, when essential (clay blocks, retaining walls), hire a pro_
 
-- [ ] **BBQ Patio Ideas for Australian Entertaining** | bbq patio ideas | ~70 vol | Outdoor Living | CTA: PHY | `bbq-patio-ideas-australia`  
+- [x] **BBQ Patio Ideas for Australian Entertaining** | bbq patio ideas | ~70 vol | Outdoor Living | CTA: PHY | `bbq-patio-ideas-australia`  
   _Built-in vs portable BBQ, prep/serving zones, shade, seating flow, Aussie outdoor living culture_
 
 ---
