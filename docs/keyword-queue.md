@@ -1,6 +1,6 @@
 # AU Keyword Publishing Queue
 
-**Progress: 36/40**
+**Progress: 40/40**
 
 ---
 
@@ -169,16 +169,16 @@ This queue is organized into **10 locked batches of exactly 4 items each**. Work
 
 ## Batch 10
 
-- [ ] **Sandstone Paving Ideas** | sandstone paving | ~400 vol | Hardscape | CTA: PHY | `sandstone-paving-ideas`  
+- [x] **Sandstone Paving Ideas** | sandstone paving | ~400 vol | Hardscape | CTA: PHY | `sandstone-paving-ideas`  
   _Natural sandstone tiles vs crazy paving, warm Australian aesthetic, sealing, cost considerations_
 
-- [ ] **Decking Ideas Australia: Layouts & Materials** | decking ideas australia | ~70 vol | Outdoor Living | CTA: PHY | `decking-ideas-australia`  
+- [x] **Decking Ideas Australia: Layouts & Materials** | decking ideas australia | ~70 vol | Outdoor Living | CTA: PHY | `decking-ideas-australia`  
   _L-shaped, multi-level, floating decks, hardwood vs treated pine, bushfire zones_
 
-- [ ] **Outdoor Lighting Australia: Safe, Subtle, Useful** | outdoor lighting australia | ~350 vol | Outdoor Living | CTA: PHY | `outdoor-lighting-australia`  
+- [x] **Outdoor Lighting Australia: Safe, Subtle, Useful** | outdoor lighting australia | ~350 vol | Outdoor Living | CTA: PHY | `outdoor-lighting-australia`  
   _240V vs 12V, IP ratings AU weather, solar options, licensed electrician requirements_
 
-- [ ] **Sleeper Retaining Wall Guide (Concrete vs Timber)** | sleeper retaining wall | ~1100 vol | Hardscape | CTA: PHY | `sleeper-retaining-wall-guide`  
+- [x] **Sleeper Retaining Wall Guide (Concrete vs Timber)** | sleeper retaining wall | ~1100 vol | Hardscape | CTA: PHY | `sleeper-retaining-wall-guide`  
   _Comprehensive guide comparing concrete/timber sleepers, installation overview, heights, drainage, longevity_
 
 ---
