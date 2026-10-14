@@ -1,6 +1,6 @@
 # AU Keyword Publishing Queue
 
-**Progress: 40/40**
+**Progress: 0/40**
 
 ---
 
@@ -25,161 +25,161 @@ This queue is organized into **10 locked batches of exactly 4 items each**. Work
 
 ## Batch 1
 
-- [x] **Retaining Wall Ideas for Australian Yards** | retaining wall ideas | ~2500 vol | Hardscape | CTA: PHY | `retaining-wall-ideas-australia`  
-  _Showcase materials (sleepers, stone, gabion), design approaches for sloped blocks, Peninsula clay considerations_
+- [ ] **Pergola Ideas for Australian Backyards** | pergola ideas | ~800 vol | Outdoor Living | CTA: PHY | `pergola-ideas-australia`
+  _Timber vs aluminium, flat vs gable, Melbourne weather, when a building permit bites_
 
-- [x] **Patio Ideas Australia: Layouts That Work** | patio ideas australia | ~200 vol | Outdoor Living | CTA: PHY | `patio-ideas-australia`  
-  _Covered vs open, size planning, material choices for AU climate, entertaining flow_
+- [ ] **Outdoor Kitchen Ideas Australia** | outdoor kitchen ideas australia | ~300 vol (head ~2100) | Outdoor Living | CTA: PHY | `outdoor-kitchen-ideas-australia`
+  _Alfresco layouts, budget vs built-in, Peninsula wind/salt, Xero-friendly staged builds_
 
-- [x] **Outdoor Lighting Ideas for Melbourne Gardens** | outdoor lighting ideas | ~450 vol | Outdoor Living | CTA: PHY | `outdoor-lighting-ideas-melbourne`  
-  _Safety + ambience, path/feature/entertaining lighting, Melbourne winter/summer angles_
+- [ ] **Fire Pit Ideas for Aussie Yards** | fire pit ideas | ~2700 vol | Outdoor Living | CTA: none | `fire-pit-ideas-australia`
+  _Gas vs wood, council/fire rules Vic, seating rings, safe clearances_
 
-- [x] **Paving Ideas for Paths, Patios and Driveways** | paving ideas | ~450 vol | Hardscape | CTA: PHY | `paving-ideas-australia`  
-  _Compare crazy paving, pavers, exposed aggregate, permeable options — when to use each_
+- [ ] **Shade Sail Ideas That Actually Work** | shade sail | ~3600 vol | Outdoor Living | CTA: none | `shade-sail-ideas-australia`
+  _Shapes, waterproof vs shade cloth, fixing points, Melbourne UV and wind_
 
 ---
 
 ## Batch 2
 
-- [x] **Concrete Sleeper Retaining Walls Explained** | concrete sleeper retaining wall | ~2700 vol | Hardscape | CTA: PHY | `concrete-sleeper-retaining-walls`  
-  _Why concrete sleepers dominate AU market, pros/cons, height limits, drainage basics_
+- [ ] **Artificial Grass in Australia: When It Makes Sense** | artificial grass | ~5200 vol | Lawns | CTA: MM | `artificial-grass-australia`
+  _Pros/cons vs real turf, heat, drainage, Peninsula pets, cost realism_
 
-- [x] **Small Patio Ideas for Compact Australian Backyards** | small patio ideas | ~250 vol | Outdoor Living | CTA: PHY | `small-patio-ideas-australia`  
-  _Maximize tight spaces, vertical interest, multi-use zones, Peninsula cottage blocks_
+- [ ] **Outdoor Shower Ideas for Homes and Beach Boxes** | outdoor shower | ~3700 vol | Outdoor Living | CTA: PHY | `outdoor-shower-ideas-australia`
+  _Privacy, plumbing, coastal Peninsula, pool/spa rinse setups_
 
-- [x] **Front Yard Landscaping Ideas Australia** | front yard landscaping ideas australia | ~500 vol | Garden Beds | CTA: PHY | `front-yard-landscaping-ideas-australia`  
-  _Curb appeal, low-maintenance natives, street tree rules, hardscape balance_
+- [ ] **Driveway Ideas for Australian Homes** | driveway ideas | ~500 vol | Hardscape | CTA: PHY | `driveway-ideas-australia`
+  _Concrete vs pavers vs exposed aggregate, permeable options, council crossovers_
 
-- [x] **Garden Drainage Fixes for Wet Victorian Yards** | garden drainage | ~250 vol | DIY vs Hire | CTA: PHY | `garden-drainage-victoria`  
-  _Diagnose drainage problems, DIY swales/gravel, when to call drainage pros, clay soil Peninsula angle_
+- [ ] **Garden Path Ideas That Stay Neat** | garden path ideas | ~500 vol | Hardscape | CTA: PHY | `garden-path-ideas-australia`
+  _Width, materials, lighting, clay soil drainage on Peninsula blocks_
 
 ---
 
 ## Batch 3
 
-- [x] **Deck Ideas for Australian Homes** | deck ideas | ~300 vol | Outdoor Living | CTA: PHY | `deck-ideas-australia`  
-  _Elevated vs ground-level, wraparound, small decks, coastal/bushfire considerations_
+- [ ] **Fence Ideas Australia (Beyond Basic Colorbond)** | fence ideas | ~600 vol | Hardscape | CTA: PHY | `fence-ideas-australia`
+  _Colorbond, timber, slat, mixed panels, neighbour/permit notes_
 
-- [x] **Outdoor Privacy Screen Ideas for Gardens** | outdoor privacy screen | ~900 vol | Hedges & Pruning | CTA: PHY | `outdoor-privacy-screen-ideas`  
-  _Plants vs screens vs fences, instant hedges, batten screens, balcony privacy_
+- [ ] **Modern Colorbond Fence Designs** | modern colorbond fence designs | ~400 vol | Hardscape | CTA: none | `modern-colorbond-fence-designs`
+  _Horizontals, contrasting posts, gates, black vs classic_
 
-- [x] **Crazy Paving Ideas (Stone Paths & Patios)** | crazy paving | ~3500 vol | Hardscape | CTA: PHY | `crazy-paving-ideas`  
-  _Classic AU look, natural stone vs reconstituted, laying tips, when it works best_
+- [ ] **Patio Roof Ideas for Melbourne Weather** | patio roof ideas | ~250 vol (patio roof ~800) | Outdoor Living | CTA: PHY | `patio-roof-ideas-melbourne`
+  _Insulated panels, louvres, flyover, gable vs flat, summer heat_
 
-- [x] **Lawn Edging Ideas That Stay Neat** | lawn edging ideas | ~150 vol | Lawns | CTA: MM | `lawn-edging-ideas`  
-  _Steel/aluminium/plastic edging, garden bed borders, mowing strips, maintenance tips (bridge to existing Mowing Magic content)_
+- [ ] **Carport Ideas That Don't Look Like Afterthoughts** | carport ideas | ~500 vol | Hardscape | CTA: none | `carport-ideas-australia`
+  _Attached vs freestanding, materials, driveway flow, permit triggers_
 
 ---
 
 ## Batch 4
 
-- [x] **Enclosed Patio Ideas Australia** | enclosed patio ideas australia | ~250 vol | Outdoor Living | CTA: PHY | `enclosed-patio-ideas-australia`  
-  _Café blinds, sliding glass, pergola roofs, insect screens, Melbourne weather considerations_
+- [ ] **Pool Landscaping Ideas Australia** | pool landscaping ideas australia | ~350 vol | Outdoor Living | CTA: PHY | `pool-landscaping-ideas-australia`
+  _Planting, screening, wet-edge paving links, Peninsula salt and wind_
 
-- [x] **Timber Sleeper Retaining Walls: Pros, Cons, Climate** | timber sleeper retaining wall | ~500 vol | Hardscape | CTA: PHY | `timber-sleeper-retaining-walls`  
-  _Treated pine risks AU climate, termites/rot, when timber makes sense, compare to concrete_
+- [ ] **Raised Garden Bed Ideas for Aussie Yards** | raised garden bed ideas | ~600 vol | Garden Beds | CTA: PHY | `raised-garden-bed-ideas-australia`
+  _Timber vs steel sleeper beds, height, soil, veg vs ornamental_
 
-- [x] **Modern Australian Front Yard Ideas** | modern australian front yard ideas | ~600 vol | Garden Beds | CTA: PHY | `modern-australian-front-yard-ideas`  
-  _Clean lines, native grasses, minimal lawn, statement plants, modern hardscape_
+- [ ] **Outdoor Spa Placement and Landscaping** | outdoor spa | ~1100 vol | Outdoor Living | CTA: PHY | `outdoor-spa-landscaping-australia`
+  _Pads, privacy, power, noise, linking to decks/patios (not a buying guide)_
 
-- [x] **Gravel Garden Ideas for Low-Maintenance Yards** | gravel garden ideas | ~90 vol | Garden Beds | CTA: PHY | `gravel-garden-ideas-australia`  
-  _Drought-tolerant, weed suppression, gravel types, feature plants, not just "crushed rock deserts"_
+- [ ] **Small Courtyard Design Ideas** | small courtyard design ideas | ~200 vol | Outdoor Living | CTA: none | `small-courtyard-design-ideas-australia`
+  _Vertical space, paving + pots, Melbourne light wells_
 
 ---
 
 ## Batch 5
 
-- [x] **Bluestone Paving in Melbourne: When It Makes Sense** | bluestone paving melbourne | ~200 vol | Hardscape | CTA: PHY | `bluestone-paving-melbourne`  
-  _Local heritage look, cost vs alternatives, thermal mass, where it works (entries/paths vs full patios)_
+- [ ] **Garden Steps for Sloped Blocks** | garden steps | ~200 vol | Hardscape | CTA: PHY | `garden-steps-australia`
+  _Sleepers, stone, concrete, rise/run, drainage and handrails_
 
-- [x] **Outdoor Living Ideas for Peninsula Climate** | outdoor living ideas | ~150 vol | Outdoor Living | CTA: PHY | `outdoor-living-ideas-peninsula`  
-  _Wind protection, sun/shade balance, winter use strategies, connecting indoor/outdoor_
+- [ ] **Timber Pergola vs Aluminium Pergola** | timber pergola | ~700 vol | Outdoor Living | CTA: PHY | `timber-vs-aluminium-pergola`
+  _Cost, maintenance, bushfire/coastal, DIY limits_
 
-- [x] **How to Build a Small Retaining Wall (DIY Limits)** | how to build a retaining wall | ~500 vol | DIY vs Hire | CTA: PHY | `how-to-build-retaining-wall-diy`  
-  _Honest guide: when DIY is safe (<600mm), when engineer/builder required, drainage must-haves_
+- [ ] **Alfresco Kitchen Layouts on a Budget** | alfresco kitchen | ~350 vol | Outdoor Living | CTA: none | `alfresco-kitchen-budget-australia`
+  _Module stages, weatherproofing, storage, Peninsula entertaining_
 
-- [x] **Garden Privacy Screen Ideas (Plants vs Screens)** | garden privacy screen ideas | ~70 vol | Hedges & Pruning | CTA: PHY | `garden-privacy-screen-ideas`  
-  _Fast-growing hedge plants, timber batten DIY, metal screens, mix approaches_
+- [ ] **Privacy Fence Ideas for Neighbours** | privacy fence | ~600 vol | Hardscape | CTA: none | `privacy-fence-ideas-australia`
+  _Height norms, slat gaps, plant screens vs solid, street appeal_
 
 ---
 
 ## Batch 6
 
-- [x] **Permeable Paving for Stormwater-Smart Yards** | permeable paving | ~1300 vol | Hardscape | CTA: PHY | `permeable-paving-australia`  
-  _Why councils push it, permeable pavers vs gravel, driveways/paths, Melbourne stormwater rules_
+- [ ] **Fake Grass Cost and Fit for Victorian Yards** | fake grass cost | ~250 vol | Lawns | CTA: MM | `fake-grass-cost-victoria`
+  _m² ranges, base prep, heat, when real lawn still wins_
 
-- [x] **Backyard Patio Ideas Australia** | backyard patio ideas australia | ~100 vol | Outdoor Living | CTA: PHY | `backyard-patio-ideas-australia`  
-  _North-facing layouts, shade solutions, family entertaining zones, fire pit integration_
+- [ ] **Insulated Patio Roof Options** | insulated patio roof | ~350 vol | Outdoor Living | CTA: PHY | `insulated-patio-roof-australia`
+  _Panel types, condensation, summer comfort in Melbourne_
 
-- [x] **Sandstone Retaining Walls** | sandstone retaining wall | ~700 vol | Hardscape | CTA: PHY | `sandstone-retaining-walls`  
-  _Natural stone aesthetic, cost, dry-stack vs mortared, Peninsula quarries/suppliers angle_
+- [ ] **Backyard Landscaping Ideas Australia (Small Blocks)** | small backyard landscaping ideas australia | ~200 vol | Garden Beds | CTA: PHY | `small-backyard-landscaping-ideas-australia`
+  _Zoning, multi-use paving, storage, Peninsula cottage lots_
 
-- [x] **Low-Maintenance Front Yard with Australian Natives** | low maintenance front yard australian native garden design | ~700 vol | Garden Beds | CTA: PHY | `low-maintenance-front-yard-australian-natives`  
-  _Peninsula-appropriate natives, once-established watering, structural planting, no lawn front yards_
+- [ ] **Verandah Ideas for Older Aussie Homes** | verandahs | ~500 vol | Outdoor Living | CTA: none | `verandah-ideas-australia`
+  _Heritage vs modern wrap, screening, connecting indoor/outdoor_
 
 ---
 
 ## Batch 7
 
-- [x] **Timber vs Composite Decking for Melbourne** | timber decking / composite decking melbourne | ~1000/600 vol | Outdoor Living | CTA: PHY | `timber-vs-composite-decking-melbourne`  
-  _Honest comparison: cost, maintenance, lifespan, Melbourne sun/wet, splinters vs fade, when each wins_
+- [ ] **Colorbond Slat Fencing Ideas** | colorbond slat fencing | ~300 vol | Hardscape | CTA: PHY | `colorbond-slat-fencing-ideas`
+  _Horizontal slats, gaps for breeze, gates, black trend_
 
-- [x] **Retaining Wall Drainage: Stop Blowouts** | retaining wall drainage | ~500 vol | Hardscape | CTA: PHY | `retaining-wall-drainage`  
-  _Why walls fail (water pressure), ag pipe, weep holes, gravel backfill, costly mistakes to avoid_
+- [ ] **Pool Area Planting That Survives Chlorine and Sun** | pool landscaping | ~700 vol | Garden Beds | CTA: none | `pool-area-planting-australia`
+  _Tough species, screening without leaf drop, Peninsula salt_
 
-- [x] **Courtyard Ideas Australia** | courtyard ideas australia | ~70 vol | Outdoor Living | CTA: PHY | `courtyard-ideas-australia`  
-  _Small urban courtyards, paving + plants balance, vertical gardens, microclimates_
+- [ ] **Outdoor Living Spaces for Peninsula Climate** | outdoor living spaces | ~200 vol | Outdoor Living | CTA: PHY | `outdoor-living-spaces-peninsula`
+  _Wind, winter use, heaters, linking kitchen/deck (fresh angle vs earlier outdoor-living post)_
 
-- [x] **French Drain Basics for Garden Wet Spots** | french drainage system | ~350 vol | DIY vs Hire | CTA: PHY | `french-drain-garden-australia`  
-  _What a French drain is, DIY steps for garden swales, when to hire plumber vs landscaper, Peninsula clay challenges_
+- [ ] **Garden Fence Ideas with Style** | garden fence ideas | ~300 vol | Hardscape | CTA: none | `garden-fence-ideas-australia`
+  _Pickets, mixed materials, soft edges, curb appeal_
 
 ---
 
 ## Batch 8
 
-- [x] **Gabion Retaining Walls for Sloped Blocks** | gabion retaining wall | ~500 vol | Hardscape | CTA: PHY | `gabion-retaining-walls`  
-  _Modern industrial look, rock-filled cages, pros (drainage/cost), cons (professional install), Peninsula coastal blocks_
+- [ ] **Gable vs Flat Patio Roof** | gable patio roof | ~200 vol | Outdoor Living | CTA: PHY | `gable-vs-flat-patio-roof`
+  _Look, water runoff, cost, Melbourne storms_
 
-- [x] **Cheap Simple Front Yard Landscaping Ideas** | cheap simple front yard landscaping ideas | ~900 vol | Garden Beds | CTA: PHY | `cheap-front-yard-landscaping-ideas`  
-  _Budget curb appeal: mulch makeovers, pathway refresh, low-cost plants, DIY edging, one focal point_
+- [ ] **Metal Fence Panels for Modern Yards** | metal fence panels | ~500 vol | Hardscape | CTA: none | `metal-fence-panels-australia`
+  _Powdercoat, verticals, security vs openness_
 
-- [x] **Pool Paving Ideas for Aussie Backyards** | pool paving | ~400 vol | Hardscape | CTA: PHY | `pool-paving-ideas`  
-  _Non-slip surfaces, heat reflection, pavers vs concrete vs travertine, pool surrounds safety & style_
+- [ ] **Fire Pit Landscaping (Seating and Surfaces)** | backyard fire pit ideas landscaping | ~600 vol | Outdoor Living | CTA: PHY | `fire-pit-landscaping-australia`
+  _Paving rings, gravel, plant clearances, night lighting_
 
-- [x] **Fence Privacy Screens That Still Look Good** | fence privacy screen | ~500 vol | Hedges & Pruning | CTA: PHY | `fence-privacy-screens`  
-  _Timber battens, metal sheets, climbing plants, panel styles, neighbour considerations_
+- [ ] **Low-Maintenance Backyard Landscaping Ideas** | low maintenance backyard landscaping ideas | ~200 vol | Garden Beds | CTA: PHY | `low-maintenance-backyard-australia`
+  _Hardscape weight, natives, mulch, irrigation basics_
 
 ---
 
 ## Batch 9
 
-- [x] **Outdoor Patio Ideas on a Budget** | outdoor patio ideas | ~500 vol | Outdoor Living | CTA: PHY | `outdoor-patio-ideas-budget`  
-  _DIY paving, simple pergola, repurposed materials, staged builds, smart spending priorities_
+- [ ] **Retractable and Louvre Patio Roofs** | louvre patio roof | ~200 vol | Outdoor Living | CTA: PHY | `louvre-patio-roof-australia`
+  _When adjustable roofs win, cost honesty, service access_
 
-- [x] **Garden Retaining Wall Options Compared** | garden retaining wall | ~450 vol | Hardscape | CTA: PHY | `garden-retaining-wall-options`  
-  _Sleepers vs stone vs block vs gabion — comparison table, cost/lifespan/look/DIY-ability_
+- [ ] **Wooden Fence Ideas That Last in Vic Weather** | wooden fence | ~300 vol | Hardscape | CTA: none | `wooden-fence-ideas-victoria`
+  _Species, treatment, posts in clay, paint vs oil_
 
-- [x] **Subsoil Drainage for Clay Peninsula Soils** | subsoil drainage | ~350 vol | DIY vs Hire | CTA: PHY | `subsoil-drainage-peninsula`  
-  _What subsoil drainage is, ag pipe systems, when essential (clay blocks, retaining walls), hire a pro_
+- [ ] **Pool Landscaping on a Budget Australia** | pool landscaping ideas on a budget australia | ~200 vol | Outdoor Living | CTA: PHY | `pool-landscaping-budget-australia`
+  _Phased planting, cheap screens, DIY vs hire_
 
-- [x] **BBQ Patio Ideas for Australian Entertaining** | bbq patio ideas | ~70 vol | Outdoor Living | CTA: PHY | `bbq-patio-ideas-australia`  
-  _Built-in vs portable BBQ, prep/serving zones, shade, seating flow, Aussie outdoor living culture_
+- [ ] **Native Garden Design for Front Yards** | australian native garden design | ~250 vol | Garden Beds | CTA: PHY | `native-garden-design-front-yard`
+  _Structure first, flowering fillers, Peninsula-appropriate palette_
 
 ---
 
 ## Batch 10
 
-- [x] **Sandstone Paving Ideas** | sandstone paving | ~400 vol | Hardscape | CTA: PHY | `sandstone-paving-ideas`  
-  _Natural sandstone tiles vs crazy paving, warm Australian aesthetic, sealing, cost considerations_
+- [ ] **Flat Roof Patio Pros and Cons** | flat roof patio | ~200 vol | Outdoor Living | CTA: none | `flat-roof-patio-australia`
+  _Insulation, fall for water, solar later, look_
 
-- [x] **Decking Ideas Australia: Layouts & Materials** | decking ideas australia | ~70 vol | Outdoor Living | CTA: PHY | `decking-ideas-australia`  
-  _L-shaped, multi-level, floating decks, hardwood vs treated pine, bushfire zones_
+- [ ] **Steel Fence Panels vs Timber** | steel fence panels | ~300 vol | Hardscape | CTA: PHY | `steel-vs-timber-fence-panels`
+  _Cost, lifespan, bushfire, coastal rust_
 
-- [x] **Outdoor Lighting Australia: Safe, Subtle, Useful** | outdoor lighting australia | ~350 vol | Outdoor Living | CTA: PHY | `outdoor-lighting-australia`  
-  _240V vs 12V, IP ratings AU weather, solar options, licensed electrician requirements_
+- [ ] **Small Outdoor Kitchen Layouts** | small outdoor kitchen | ~300 vol | Outdoor Living | CTA: none | `small-outdoor-kitchen-layouts`
+  _BBQ + prep only, storage, power, weather covers_
 
-- [x] **Sleeper Retaining Wall Guide (Concrete vs Timber)** | sleeper retaining wall | ~1100 vol | Hardscape | CTA: PHY | `sleeper-retaining-wall-guide`  
-  _Comprehensive guide comparing concrete/timber sleepers, installation overview, heights, drainage, longevity_
+- [ ] **Synthetic Turf Around Pools and Spas** | synthetic turf | ~1200 vol | Lawns | CTA: MM | `synthetic-turf-pool-spa`
+  _Heat, drainage, pet urine, when paving is safer_
 
 ---
 
